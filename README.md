@@ -1,2 +1,2 @@
-# react_movie_app\n
+# react_movie_app
 노마드코더 리액트 강의
